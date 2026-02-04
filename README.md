@@ -11,3 +11,6 @@ An interactive dashboard designed to analyze e-commerce sales data and uncover k
 
 ### Tools Used
 - Power BI / Excel / Python (EDA)
+  
+## Dashboard Preview
+![Dashboard](dashboard.png)
